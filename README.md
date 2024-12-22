@@ -1,4 +1,4 @@
-# Airlines-Dashboard
+# Sales Insights Project
 
 ### Dashboard Link : 
 
