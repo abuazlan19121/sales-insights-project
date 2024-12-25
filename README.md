@@ -72,7 +72,7 @@ This phase focuses on preparing and transforming data for analysis by leveraging
    - In the Model View, review and organize data to align with the Star Schema format, ensuring efficient and scalable analysis.  
 ![Screenshot 2024-09-14 183204](https://github.com/user-attachments/assets/5dbf57f2-ac77-47d1-9a25-dc248b69a53d)
 
-### Step 3: Transform Data with Power Query  
+### Transform Data with Power Query  
 
 Data transformation is carried out using Power Query Editor, where essential ETL tasks like data cleaning, wrangling, and munging are performed.  
 
